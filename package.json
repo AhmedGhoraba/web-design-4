@@ -1,0 +1,21 @@
+{
+  "name": "aftereid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-autoprefixer": "^6.1.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
